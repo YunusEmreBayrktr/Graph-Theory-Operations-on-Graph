@@ -1,0 +1,20 @@
+Adam:Beatrix Mary
+Albert:Anna Beatrix Kevin
+Alex:Anna Beatrix Mary Rose
+Anna:Albert Alex Arthur Nick Rose
+Arthur:Anna Rose
+Beatrix:Adam Albert Alex Benedict Jesse
+Benedict:Beatrix Jason
+Hector:Mary Olivia
+Jason:Benedict Kevin
+Jesse:Beatrix Lowell Richard
+Ken:Rose
+Kevin:Albert Jason
+Lowell:Jesse
+Mary:Adam Alex Hector Nick
+Nick:Anna Mary Rose Soul 
+Olivia:Hector Soul
+Richard:Jesse
+Rose:Alex Anna Arthur Ken Nick
+Sophia:Soul
+Soul:Nick Olivia
